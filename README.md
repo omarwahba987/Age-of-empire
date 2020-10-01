@@ -43,10 +43,10 @@ Dependencies in project :
   built in packages :
   
  
- fmt
- os
- strings
- encoding/json
- log
- net/http
- testing
+. fmt
+. os
+. strings
+. encoding/json
+. log
+. net/http
+. testing
