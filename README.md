@@ -6,10 +6,10 @@ and search for information about this unit then render this unit’s data to the
 
 	Before first use :
 
-	Age of empire CLI use golang so you should install golang in your machine and two external packages so you should import them 
+	1- Age of empire  use golang so you should install golang in your machine and two external packages so you should import them 
 	
 
-	1-there alot of databeses but this is a small program so i choose a fast and light database  
+	2- there alot of databeses but this is a small program so i choose a fast and light database  
     LevelDB key/value database in the Go 
 		you can get by enter in terminal 
 		go get github.com/syndtr/goleveldb/leveldb
