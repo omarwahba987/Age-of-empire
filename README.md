@@ -29,7 +29,7 @@ There is 2 features
      Ex: ./empirecl Bizantines
 
 	
-2- make test for the program
+2- make unit test for the program
 
     just type 
     go test 
