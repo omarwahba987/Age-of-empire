@@ -1,5 +1,5 @@
 # Age-of-empire
-Age of empire command line program which takes an Age of Empires name as a user input 
+Age of empire command line program which takes a name of Empires name as a user input 
 and search for information about this unit then render this unit’s data to the user.
 
 -Installation
